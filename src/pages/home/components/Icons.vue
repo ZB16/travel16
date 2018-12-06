@@ -33,7 +33,7 @@ export default{
     pages: function () {
       const pages = []
       this.list.forEach(function (item, index) {
-        const page = Math.floor(index / 8)
+        const page = Math.floor(index / 10)
         if (!pages[page]) {
           pages[page] = []
         }
@@ -57,7 +57,7 @@ export default{
     overflow: hidden;
     float: left;
     height: 0;
-    width: 25%;
+    width: 20%;
     padding-bottom: 25%;
     /* background-color: red; */
   }
@@ -76,6 +76,7 @@ export default{
     margin: 0 auto;
   }
   .icon_desc{
+    font-size: 12px;
     position: absolute;
     bottom: 0;left: 0;right: 0;
     height: .44rem;

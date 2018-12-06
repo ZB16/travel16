@@ -1,13 +1,17 @@
 <template>
   <div>
-    <div class="title">热销推荐</div>
+    <div class="title">-热销推荐-</div>
     <ul>
       <li class="item" v-for="item of list" :key="item.id">
         <img :src="item.imgUrl"  alt="" class="item_img">
         <div class="item_info">
           <p class="item_title">{{item.title}}</p>
-          <p class="item_desc">{{item.desc}}</p>
-          <button class="item_button">查看详情</button>
+          <p class="item_sale">{{item.desc}}</p>
+          <div class="item_song">
+            <p class="item_qi">{{item.qi}}</p>
+            <span>|</span>
+            <p class="item_fei">{{item.fei}}</p>
+          </div>
         </div>
       </li>
     </ul>
@@ -25,9 +29,9 @@ export default{
 
 <style scoped>
   .title{
+    text-align: center;
     margin-top: .2rem;
     line-height: .8rem;
-    background: #eee;
     text-indent: .2rem;
   }
   .item{
@@ -49,16 +53,21 @@ export default{
     line-height: .54rem;
     font-size: .32rem;
   }
-  .item_desc{
+  .item_sale{
+    margin-top: .2rem;
     line-height: .4rem;
-    color: #ccc;
+    font-size: .10rem;
   }
-  .item_button{
-    line-height: .44rem;
-    margin-top: .16rem;
-    background: #ff9300;
-    padding: 0 .2rem;
-    border-radius: .06rem;
-    color: #fff;
+  .item_song{
+    margin-top: .2rem;
+    width: 2.4rem;
+    font-size: .06rem;
+  }
+  .item_qi{
+    float: left;
+    margin-right: .2rem;
+  }
+  .item_fei{
+    float: right;
   }
 </style>

@@ -3,79 +3,130 @@
   "data": {
     "swiperList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+        "imgUrl": "https://fuss10.elemecdn.com/b/45/998aa07aa331b2653c0ec56172065jpeg.jpeg?imageMogr/thumbnail/568x/"
       },{
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+        "imgUrl": "https://fuss10.elemecdn.com/5/b8/b820d5c6a882e741da39cedb51113jpeg.jpeg?imageMogr/thumbnail/568x/"
       },{
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
-      },{
-        "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+        "imgUrl": "https://fuss10.elemecdn.com/a/07/1c07b2cd683a6bcb71a05a2b8b855jpeg.jpeg?imageMogr/thumbnail/568x/"
       }],
     "iconList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-        "desc": "景点门票"
+        "imgUrl": "https://fuss10.elemecdn.com/7/d8/a867c870b22bc74c87c348b75528djpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "美食"
       }, {
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
-        "desc": "滑雪季"
+        "imgUrl": "https://fuss10.elemecdn.com/1/48/bf1a859bf81553bbcfd6cf4ac42cbjpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "早餐"
       }, {
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
-        "desc": "泡温泉"
+        "imgUrl": "https://fuss10.elemecdn.com/c/7e/76a23eb90dada42528bc41499d6f8jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "商超便利"
       }, {
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
-        "desc": "动植园"
+        "imgUrl": "https://fuss10.elemecdn.com/0/d0/dd7c960f08cdc756b1d3ad54978fdjpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "水果"
       }, {
         "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
-        "desc": "游乐园"
+        "imgUrl": "https://fuss10.elemecdn.com/7/0a/af108e256ebc9f02db599592ae655jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "医药健康"
       }, {
         "id": "0006",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
-        "desc": "必游榜单"
+        "imgUrl": "https://fuss10.elemecdn.com/3/01/c888acb2c8ba9e0c813f36ec9e90ajpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "浪漫鲜花"
       }, {
         "id": "0007",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
-        "desc": "演出"
+        "imgUrl": "https://fuss10.elemecdn.com/c/21/e42997b86b232161a5a16ab813ae8jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "厨房生鲜"
       }, {
         "id": "0008",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
-        "desc": "城市观光"
+        "imgUrl": "https://fuss10.elemecdn.com/e/58/bceb19258e3264e64fb856722c3c1jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "跑腿代购"
       }, {
         "id": "0009",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
-        "desc": "一日游"
+        "imgUrl": "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "甜品饮品"
+      }, {
+        "id": "0010",
+        "imgUrl": "https://fuss10.elemecdn.com/5/de/bebe83947afee0b0f38257b0e3866jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "签到领红包"
+      }, {
+        "id": "0011",
+        "imgUrl": "https://fuss10.elemecdn.com/e/58/bceb19258e3264e64fb856722c3c1jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "跑腿代购"
+      }, {
+        "id": "0012",
+        "imgUrl": "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "甜品饮品"
+      }, {
+        "id": "0013",
+        "imgUrl": "https://fuss10.elemecdn.com/c/21/e42997b86b232161a5a16ab813ae8jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "厨房生鲜"
+      }, {
+        "id": "0014",
+        "imgUrl": "https://fuss10.elemecdn.com/e/58/bceb19258e3264e64fb856722c3c1jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "跑腿代购"
+      }, {
+        "id": "0015",
+        "imgUrl": "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "甜品饮品"
+      }, {
+        "id": "0016",
+        "imgUrl": "https://fuss10.elemecdn.com/e/58/bceb19258e3264e64fb856722c3c1jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "跑腿代购"
+      }, {
+        "id": "0017",
+        "imgUrl": "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "甜品饮品"
+      }, {
+        "id": "0018",
+        "imgUrl": "https://fuss10.elemecdn.com/c/21/e42997b86b232161a5a16ab813ae8jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "厨房生鲜"
+      }, {
+        "id": "0019",
+        "imgUrl": "https://fuss10.elemecdn.com/e/58/bceb19258e3264e64fb856722c3c1jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "跑腿代购"
+      }, {
+        "id": "0020",
+        "imgUrl": "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg?imageMogr/thumbnail/!90x90r/gravity/Center/crop/90x90/",
+        "desc": "甜品饮品"
       }],
     "recommendList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
-        "title": "故宫",
-        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+        "imgUrl": "https://fuss10.elemecdn.com/a/22/ef2d03de15a2dab08a7a8b7975d91jpeg.jpeg?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "米晓·中式FANFAN（锦江店）",
+        "desc": "月售461单",
+        "qi": "￥20起送",
+        "fei": "免费配送"
       }, {
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
-        "title": "南山滑雪场",
-        "desc": "北京专业级滑雪圣地"
+        "imgUrl": "https://fuss10.elemecdn.com/3/2c/b266245a71c30fc1959d01d28a55epng.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "乡村基",
+        "desc": "月售3792单",
+        "qi": "￥15起送",
+        "fei": "配送费￥1"
       }, {
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
-        "title": "天安门广场",
-        "desc": "我爱北京天安门，天安门上太阳升"
+        "imgUrl": "https://fuss10.elemecdn.com/4/86/177d9df571f11d48dab1bd8b8913epng.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "自贡鲜锅兔",
+        "desc": "月售3083单",
+        "qi": "￥35起送",
+        "fei": "免费配送"
       }, {
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
-        "title": "水立方",
-        "desc": "中国的荣耀，阳光下的晶莹水滴"
+        "imgUrl": "https://fuss10.elemecdn.com/1/3a/d117bd447eead06ded075fc201213png.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "廖记黄焖鸡米饭（科华店）",
+        "desc": "月售3556单",
+        "qi": "￥12起送",
+        "fei": "免费配送"
       }, {
         "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
-        "title": "温都水城养生馆",
-        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
+        "imgUrl": "https://fuss10.elemecdn.com/5/dd/c72c9157d2dbae2950a5d447dac2cpng.png?imageMogr/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+        "title": "人民食堂",
+        "desc": "月售3092单",
+        "qi": "￥12起送",
+        "fei": "免费配送"
       }],
     "weekendList": [{
         "id": "0001",

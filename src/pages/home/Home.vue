@@ -1,16 +1,16 @@
 <template>
 <div>
     <home-header></home-header>
-    <home-swiper :list='swiperList'></home-swiper>
     <home-icons :list="iconList"></home-icons>
+    <home-swiper :list='swiperList'></home-swiper>
     <home-recommend :list="recommendList"></home-recommend>
 </div>
 </template>
 
 <script>
 import HomeHeader from './components/Header'
-import HomeSwiper from './components/Swiper'
 import HomeIcons from './components/Icons'
+import HomeSwiper from './components/Swiper'
 import HomeRecommend from './components/Recommend'
 import axios from 'axios'
 export default{
